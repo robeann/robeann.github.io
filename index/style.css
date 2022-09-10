@@ -294,6 +294,7 @@ display: block;
     margin: 0 13px;
     padding: 5px;
     cursor: pointer;
+    width: 35px;
 }
 
 footer{
