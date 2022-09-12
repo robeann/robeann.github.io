@@ -4,7 +4,6 @@ padding: 0px;
 }
 
 body {
-
     background-color: darkgray;
 }
 
@@ -111,7 +110,7 @@ nav .bar {
 }
 
 
-@media(max-width:300px){
+@media(max-width: 300px){
     .textbox h1{
         font-size: 20px;
     }
